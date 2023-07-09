@@ -33,4 +33,7 @@
 <p>-JavaScript（我承认写的不怎么好，写一个按钮得写很久） </p>
 <p>-Java（好的，完全不会，甚至不会转Json~~~） </p>
 
+<h2>语言喜好 </h2>
+<p>Python -> Html -> C++ -> Css -> Js -> C -> C# -> Java </p>
+
 <h4>看向我，不过是background而已~</h4>
