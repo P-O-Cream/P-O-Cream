@@ -36,4 +36,4 @@
 <h2>语言喜好 </h2>
 <p>Python -> Html -> C++ -> Css -> Js -> C -> C# -> Java </p>
 
-<h4>看向我，不过是background而已~</h4>
+<h4>希望合作请加QQ：2486703552或微信QianCream2011</h4>
