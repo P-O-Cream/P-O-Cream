@@ -1,7 +1,7 @@
 <h1>这里是P.O Cream 浅的主页！</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=P-O-Cream&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QianBretain&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-O-Cream&layout=compact&theme=tokyonight)
 
 <p>本人是P.O Cream，中文名浅 </p>
 <p>常驻与Github，共创，CSDN和学而思，欢迎来访 </p>
