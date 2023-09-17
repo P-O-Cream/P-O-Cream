@@ -1,39 +1,32 @@
-<h1>这里是P.O Cream 浅的主页！</h1>
+<h1>P.O Cream</h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=P-O-Cream&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-O-Cream&layout=compact&theme=tokyonight)
 
-<p>本人是P.O Cream，中文名浅 </p>
-<p>常驻与Github，共创，CSDN和学而思，欢迎来访 </p>
+<p>这里是P.O Cream Qian(浅) </p>
+<p>常驻社区：InsCode,Xes,Github,CCW,CSDN等等 </p>
 
-<h2>语言 </h2>
-<p>- Python（最擅长的呆瓜语言，更喜欢终端，不喜欢滥用三方库和pygame）</p>
-<p>- C++（还行，要不我给你定义一个main函数？）</p>
-<p>- C#（Console.Write！其他呢？没了......）</p>
-<p>- Scratch（会也得不会，听君一席话，避免成为Scratcher！~别称：乐子人~）</p>
-<p>- C（我明白，不就是printf~乐）</p>
-<p>- Haskell（纯算法语言缔造时间）</p>
+<h2>语言类</h2>
+<p>Python - 在终端和UI方面均有研究，但对于爬虫一窍不通（可能会用bs3？）</p>
+<p>C++ - Namespace狂魔，但永远不用iostream和std标准命名空间</p>
+<p>Web - 能够使用Html,Css,Js等，但不喜欢和python的@app链接，因为很复杂</p>
+<p>PHP - 一边看教程一边写，已经几年没碰过了</p>
+<p>C类型 - 喜欢C和C#的语法，但不喜欢它的面向结果，还好我有OOP in C</p>
 
-<h2>喜好 </h2>
-<p>- 躺在沙发上喝着气泡水追剧 </p>
-<p>- 一支笔，一沓试卷，一个夜晚，也没有奇迹发生 </p>
-<p>- 认真写项目越久越好 </p>
-<p>- 和妹子玩密室逃脱（千万别多想，会出事！） </p>
-<p>- 团建，很多人的那种 </p>
+<h2>属性类</h2>
+<p>孤独 - 在平行空间或许有我的同类？</p>
+<p>存在感低 - 你可能就在我旁边，但注意不到我</p>
+<p>喜欢造轮子 - 虽然造的并不好，但是没关系</p>
 
-<h2>项目 </h2>
-<p>- FreeWorld 一个沙盒，但是 ->FW ->废* </p>
-<p>- F++ 被大佬喷的满地找牙的简单解释器，但是无法打击我不要脸（划掉 坚韧的内心 </p>
-<p>- PSUIL 抄袭某大佬的三方UI，矩阵，终端.......拓展库 </p>
-<p>- AHG 一度被InsCode认为是“违规游戏”的虚拟Hacker Game！ </p>
-
-<h2>Web </h2>
-<p>-Html（不是我会，是任何人有手就会，谢谢） </p>
-<p>-Css（会简单的样式，可以写一般pretty的网站......吧？）  </p>
-<p>-JavaScript（我承认写的不怎么好，写一个按钮得写很久） </p>
-<p>-Java（好的，完全不会，甚至不会转Json~~~） </p>
-
-<h2>语言喜好 </h2>
-<p>Python -> Html -> C++ -> Css -> Js -> C -> C# -> Java </p>
-
-<h4>希望合作请加QQ：2486703552或微信QianCream2011</h4>
+<h2>作品类</h2>
+<p>女团没有作品！（bushi）</p>
+<p>FreeWorld - 一个用\033强撑的终端沙盒，现在跑不了了</p>
+<p>FreeWorld pygame - 使用pygame和tkinter搭建的UI沙盒，但是Linux</p>
+<p>AHG - 因为“违规”下架的模拟黑客游戏</p>
+<p>MathL - 高仿（且更好）的Math库</p>
+<p>Escape - 逃脱类文字游戏，源码已经丢失！</p>
+<p>PSUIL - 乱写的终端三方库，主要基于文字类，但是现在不用了</p>
+  
+<h2>商业合作方式</h2>
+<p>QQ：2486703552</p>
+<p>微信：QianCream2011</p>
