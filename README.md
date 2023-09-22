@@ -22,6 +22,7 @@
 <p>女团没有作品！（bushi）</p>
 <p>FreeWorld - 一个用\033强撑的终端沙盒，现在跑不了了</p>
 <p>FreeWorld pygame - 使用pygame和tkinter搭建的UI沙盒，但是Linux</p>
+<p>FreeWorld Terrain - 为FreeWorld所有系列提供地形支持</p>
 <p>AHG - 因为“违规”下架的模拟黑客游戏</p>
 <p>MathL - 高仿（且更好）的Math库</p>
 <p>Escape - 逃脱类文字游戏，源码已经丢失！</p>
