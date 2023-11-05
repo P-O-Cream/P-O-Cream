@@ -3,7 +3,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=P-O-Cream&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-O-Cream&layout=compact&theme=tokyonight)
 
-<p>这里是P.O Cream Qian(浅) </p>
+<p>这里是P.O Cream Qian </p>
 <p>常驻社区：InsCode,Xes,Github,CCW,CSDN等等 </p>
 
 <h2>语言类</h2>
